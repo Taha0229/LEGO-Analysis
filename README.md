@@ -10,7 +10,7 @@ This is a data science project that is done on a LEGO data set to answer the fol
 
 2.	The number of different themes shipped by year.
    <br>
-  	 ![download (2)](https://github.com/Taha0229/LEGO-Analysis/assets/113607983/6ef4ec40-7020-466b-b1ae-bf55b1d65524)
+  ![download (2)](https://github.com/Taha0229/LEGO-Analysis/assets/113607983/e5906520-63f0-406d-8062-28e82e58aed4)
 
    
 4.	The number of themes released by year. Only include the full calendar years (i.e., exclude 2020 and 2021)
@@ -23,8 +23,8 @@ This is a data science project that is done on a LEGO data set to answer the fol
 6.	Number of Sets per LEGO Theme
    ![download (4)](https://github.com/Taha0229/LEGO-Analysis/assets/113607983/d342472c-b0c4-4738-b84b-9d6813dee189)
 <br>
-**Expected Outcomes**:
 
+**Expected Outcomes**:
 1. What is the most enormous LEGO set ever created, and how many parts did it have?
 2. In which year were the first LEGO sets released, and how many sets did the company sell when it first launched?
 3. Which LEGO theme has the most sets?
